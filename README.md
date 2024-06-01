@@ -6,9 +6,9 @@
 2. 支持自定义数据库，随机数可以从数据库中获取
 3. 支持 window、mac 和 Linux 平台
 
-![阅览图1](https://raw.github.com/jenvyxu/repositpry/master/random-integer-generator/preview_1.png)
+![阅览图1](https://github.com/jenvyxu/random-integer-generator/blob/master/preview_1.png)
 
-![阅览图2](https://raw.github.com/jenvyxu/repositpry/master/random-integer-generator/preview_2.png)
+![阅览图2](https://github.com/jenvyxu/random-integer-generator/blob/master/preview_2.png)
 
 # 相关技术
 
